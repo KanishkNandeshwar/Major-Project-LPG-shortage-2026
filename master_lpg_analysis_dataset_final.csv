@@ -1,0 +1,112 @@
+City,Month,Domestic Price,Commercial Price,Distance_to_Port_km,Nearest_Port,Avg_Brent_Crude_USD,LPG_Consumption_KT
+Agartala,April,1073.5,2421.5,386.44,"Haldia Port, West Bengal",99.54937505722046,
+Agartala,March,1073.5,2201.5,386.44,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Agartala,February,1013.5,2057.5,386.44,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Ahmedabad,April,920.0,2098.0,242.08,"Kandla Port, Gujarat",99.54937505722046,
+Ahmedabad,March,920.0,1903.0,242.08,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Ahmedabad,February,860.0,1759.0,242.08,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Aizawl,April,1065.0,2551.0,513.92,"Haldia Port, West Bengal",99.54937505722046,
+Aizawl,March,1065.0,2332.0,513.92,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Aizawl,February,1005.0,2188.0,513.92,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Amritsar,April,954.0,2185.0,1060.6,"Kandla Port, Gujarat",99.54937505722046,
+Amritsar,March,954.0,1992.0,1060.6,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Amritsar,February,894.0,1848.0,1060.6,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Bengaluru,April,915.5,2161.0,298.64,"Ennore Port, Tamil Nadu",99.54937505722046,
+Bengaluru,March,915.5,1958.0,298.64,"Ennore Port, Tamil Nadu",99.59954591230913,2379.0
+Bengaluru,February,855.5,1814.0,298.64,"Ennore Port, Tamil Nadu",69.40684268349095,2822.0
+Bhopal,April,918.5,2084.0,662.64,"Pipavav Port, Gujarat",99.54937505722046,
+Bhopal,March,918.5,1889.0,662.64,"Pipavav Port, Gujarat",99.59954591230913,2379.0
+Bhopal,February,858.5,1745.0,662.64,"Pipavav Port, Gujarat",69.40684268349095,2822.0
+Bhubaneswar,April,939.0,2245.0,302.19,"Haldia Port, West Bengal",99.54937505722046,
+Bhubaneswar,March,939.0,2029.0,302.19,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Bhubaneswar,February,879.0,1885.0,302.19,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Chandigarh,April,922.5,2099.5,1074.97,"Kandla Port, Gujarat",99.54937505722046,
+Chandigarh,March,922.5,1904.5,1074.97,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Chandigarh,February,862.5,1760.5,1074.97,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Chennai,April,928.5,2246.5,19.51,"Ennore Port, Tamil Nadu",99.54937505722046,
+Chennai,March,928.5,2043.5,19.51,"Ennore Port, Tamil Nadu",99.59954591230913,2379.0
+Chennai,February,868.5,1899.5,19.51,"Ennore Port, Tamil Nadu",69.40684268349095,2822.0
+Dehradun,April,932.0,2131.5,1123.19,"Kandla Port, Gujarat",99.54937505722046,
+Dehradun,March,932.0,1937.5,1123.19,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Dehradun,February,872.0,1793.5,1123.19,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Diu,April,927.5,2062.0,57.41,"Pipavav Port, Gujarat",99.54937505722046,
+Diu,March,927.5,1868.0,57.41,"Pipavav Port, Gujarat",99.59954591230913,2379.0
+Diu,February,867.5,1724.0,57.41,"Pipavav Port, Gujarat",69.40684268349095,2822.0
+Fatehabad,April,942.0,2157.5,898.87,"Kandla Port, Gujarat",99.54937505722046,
+Fatehabad,March,942.0,1962.5,898.87,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Fatehabad,February,882.0,1818.5,898.87,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Gangtok,April,1065.5,2584.0,590.11,"Haldia Port, West Bengal",99.54937505722046,
+Gangtok,March,1065.5,2364.0,590.11,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Gangtok,February,1005.5,2220.0,590.11,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Goa Panaji,April,927.0,2145.0,303.45,"Mangalore Port, Karnataka",99.54937505722046,
+Goa Panaji,March,927.0,1950.0,303.45,"Mangalore Port, Karnataka",99.59954591230913,2379.0
+Goa Panaji,February,867.0,1806.0,303.45,"Mangalore Port, Karnataka",69.40684268349095,2822.0
+Guntur Amaravathi,April,937.5,2244.5,341.63,"Ennore Port, Tamil Nadu",99.54937505722046,
+Guntur Amaravathi,March,937.5,2042.5,341.63,"Ennore Port, Tamil Nadu",99.59954591230913,2379.0
+Guntur Amaravathi,February,877.5,1898.5,341.63,"Ennore Port, Tamil Nadu",69.40684268349095,2822.0
+Guwahati,April,962.0,2300.0,594.01,"Haldia Port, West Bengal",99.54937505722046,
+Guwahati,March,962.0,2080.0,594.01,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Guwahati,February,902.0,1936.0,594.01,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Hyderabad,April,905.0,2176.5,496.58,"Ennore Port, Tamil Nadu",99.54937505722046,
+Hyderabad,March,905.0,1961.5,496.58,"Ennore Port, Tamil Nadu",99.59954591230913,2379.0
+Hyderabad,February,845.0,1817.5,496.58,"Ennore Port, Tamil Nadu",69.40684268349095,2822.0
+Imphal,April,1064.5,2552.5,674.64,"Haldia Port, West Bengal",99.54937505722046,
+Imphal,March,1064.5,2332.5,674.64,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Imphal,February,1004.5,2188.5,674.64,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Itanagar,April,978.5,2331.5,795.71,"Haldia Port, West Bengal",99.54937505722046,
+Itanagar,March,978.5,2111.5,795.71,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Itanagar,February,918.5,1967.5,795.71,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Jaipur,April,916.5,2106.0,711.64,"Kandla Port, Gujarat",99.54937505722046,
+Jaipur,March,916.5,1913.0,711.64,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Jaipur,February,856.5,1769.0,711.64,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Kavaratti,April,933.0,2149.5,351.79,"Mangalore Port, Karnataka",99.54937505722046,
+Kavaratti,March,933.0,1949.5,351.79,"Mangalore Port, Karnataka",99.59954591230913,2379.0
+Kavaratti,February,873.0,1805.5,351.79,"Mangalore Port, Karnataka",69.40684268349095,2822.0
+Kohima,April,932.0,2182.5,735.53,"Haldia Port, West Bengal",99.54937505722046,
+Kohima,March,932.0,1963.5,735.53,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Kohima,February,872.0,1819.5,735.53,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Kolkata,April,939.0,2208.5,68.26,"Haldia Port, West Bengal",99.54937505722046,
+Kolkata,March,939.0,1988.5,68.26,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Kolkata,February,879.0,1844.5,68.26,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Leh,April,1045.5,2411.5,1429.46,"Kandla Port, Gujarat",99.54937505722046,
+Leh,March,1045.5,2216.5,1429.46,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Leh,February,985.5,2072.5,1429.46,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Lucknow,April,950.5,2201.0,897.44,"Haldia Port, West Bengal",99.54937505722046,
+Lucknow,March,950.5,2007.0,897.44,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Lucknow,February,890.5,1863.0,897.44,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Mumbai,April,912.5,2031.0,249.5,"Pipavav Port, Gujarat",99.54937505722046,
+Mumbai,March,912.5,1836.0,249.5,"Pipavav Port, Gujarat",99.59954591230913,2379.0
+Mumbai,February,852.5,1692.0,249.5,"Pipavav Port, Gujarat",69.40684268349095,2822.0
+New Delhi,April,913.0,2078.5,935.72,"Kandla Port, Gujarat",99.54937505722046,
+New Delhi,March,913.0,1884.5,935.72,"Kandla Port, Gujarat",99.59954591230913,2379.0
+New Delhi,February,853.0,1740.5,935.72,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Patna,April,1002.5,2353.5,496.9,"Haldia Port, West Bengal",99.54937505722046,
+Patna,March,1002.5,2133.5,496.9,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Patna,February,942.5,1989.5,496.9,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Pondicherry,April,925.0,2245.5,264.44,"Ennore Port, Tamil Nadu",99.54937505722046,
+Pondicherry,March,925.0,2042.5,264.44,"Ennore Port, Tamil Nadu",99.59954591230913,2379.0
+Pondicherry,February,865.0,1898.5,264.44,"Ennore Port, Tamil Nadu",69.40684268349095,2822.0
+Port Blair,April,989.0,2496.5,1250.13,"Haldia Port, West Bengal",99.54937505722046,
+Port Blair,March,989.0,2277.5,1250.13,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Port Blair,February,929.0,2133.5,1250.13,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Raipur,April,984.0,2299.5,670.75,"Haldia Port, West Bengal",99.54937505722046,
+Raipur,March,984.0,2085.5,670.75,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Raipur,February,924.0,1941.5,670.75,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Ranchi,April,970.5,2258.0,317.85,"Haldia Port, West Bengal",99.54937505722046,
+Ranchi,March,970.5,2038.0,317.85,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Ranchi,February,910.5,1894.0,317.85,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Shillong,April,980.0,2331.0,553.56,"Haldia Port, West Bengal",99.54937505722046,
+Shillong,March,980.0,2111.0,553.56,"Haldia Port, West Bengal",99.59954591230913,2379.0
+Shillong,February,920.0,1967.0,553.56,"Haldia Port, West Bengal",69.40684268349095,2822.0
+Shimla,April,958.5,2191.5,1130.43,"Kandla Port, Gujarat",99.54937505722046,
+Shimla,March,958.5,1996.5,1130.43,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Shimla,February,898.5,1852.5,1130.43,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Silvassa,April,927.5,2062.0,171.5,"Pipavav Port, Gujarat",99.54937505722046,
+Silvassa,March,927.5,1868.0,171.5,"Pipavav Port, Gujarat",99.59954591230913,2379.0
+Silvassa,February,867.5,1724.0,171.5,"Pipavav Port, Gujarat",69.40684268349095,2822.0
+Srinagar,April,1029.0,2385.0,1305.59,"Kandla Port, Gujarat",99.54937505722046,
+Srinagar,March,1029.0,2190.0,1305.59,"Kandla Port, Gujarat",99.59954591230913,2379.0
+Srinagar,February,969.0,2046.0,1305.59,"Kandla Port, Gujarat",69.40684268349095,2822.0
+Thiruvananthapuram,April,922.0,2112.0,544.33,"Mangalore Port, Karnataka",99.54937505722046,
+Thiruvananthapuram,March,922.0,1912.0,544.33,"Mangalore Port, Karnataka",99.59954591230913,2379.0
+Thiruvananthapuram,February,862.0,1768.0,544.33,"Mangalore Port, Karnataka",69.40684268349095,2822.0
